@@ -1,3 +1,6 @@
 id,category,margin
 1,default,20
-2,category1,15
+2,notebook,15
+3,computer,20
+4,mouse,2
+5,mousepad,3
