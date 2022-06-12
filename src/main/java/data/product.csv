@@ -1,3 +1,6 @@
 id,category,name,price
-1,category1,name1,1.0
-2,category1,name2,2.0
+1,electronics,notebook,800
+2,electronics,computer,1300
+3,sport,bicycle,400
+4,sport,gloves,30
+5,clothes,jacket,120
